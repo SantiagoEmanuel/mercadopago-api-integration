@@ -2,6 +2,12 @@
 
 ## 🚀 Iniciar el proyecto
 
+### Clona el proyecto
+
+```bash
+git clone https://github.com/SantiagoEmanuel/mercadopago-api-integration
+```
+
 ### Frontend
 
 ```bash
